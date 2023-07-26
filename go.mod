@@ -1,1 +1,3 @@
-module github.com/tutorialedge/getting-started-with-go
+module getting-started-with-go
+
+go 1.20
